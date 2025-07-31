@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 ## Tree
 |  |
 | ------- |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
