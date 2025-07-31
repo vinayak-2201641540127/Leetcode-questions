@@ -51,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
+## Array
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
