@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -81,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
