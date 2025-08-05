@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
+| [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -143,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0207-course-schedule) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
