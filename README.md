@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2529-range-product-queries-of-powers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2529-range-product-queries-of-powers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2529-range-product-queries-of-powers) |
 ## Graph
 |  |
 | ------- |
