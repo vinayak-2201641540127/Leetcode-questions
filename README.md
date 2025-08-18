@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0403-frog-jump](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0403-frog-jump) |
+| [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2529-range-product-queries-of-powers) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0900-reordered-power-of-2) |
