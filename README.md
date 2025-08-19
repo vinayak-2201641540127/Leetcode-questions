@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0403-frog-jump) |
 | [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0403-frog-jump) |
 | [0826-soup-servings](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0867-new-21-game) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
