@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0403-frog-jump) |
 | [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0403-frog-jump) |
 | [0826-soup-servings](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0867-new-21-game) |
