@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0900-reordered-power-of-2) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1448-maximum-69-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Probability and Statistics
