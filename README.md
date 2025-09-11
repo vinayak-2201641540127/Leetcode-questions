@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
 |  |
