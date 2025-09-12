@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1448-maximum-69-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0200-number-of-islands) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
