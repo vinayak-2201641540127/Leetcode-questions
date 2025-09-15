@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
 ## Tree
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
