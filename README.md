@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
