@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0403-frog-jump) |
+| [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0967-minimum-falling-path-sum) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
 ## Stack
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
