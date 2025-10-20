@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
