@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0207-course-schedule) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
