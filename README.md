@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Geometry
 |  |
