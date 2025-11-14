@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0258-add-digits) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0826-soup-servings) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
