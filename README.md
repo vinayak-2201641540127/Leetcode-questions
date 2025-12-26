@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0322-coin-change) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0326-power-of-three) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 ## Number Theory
 |  |
