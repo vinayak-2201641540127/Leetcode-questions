@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0118-pascals-triangle) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0231-power-of-two) |
