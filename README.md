@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0133-clone-graph) |
 | [0900-reordered-power-of-2](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-delete-columns-to-make-sorted](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0967-minimum-falling-path-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
