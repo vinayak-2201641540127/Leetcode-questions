@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
