@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
