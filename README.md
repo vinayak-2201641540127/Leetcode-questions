@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
