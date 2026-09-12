@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3606-coupon-code-validator](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Tree
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
