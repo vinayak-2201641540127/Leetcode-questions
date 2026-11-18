@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3462-vowels-game-in-a-string](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3606-coupon-code-validator) |
 ## Backtracking
