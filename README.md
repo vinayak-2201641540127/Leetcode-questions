@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3606-coupon-code-validator](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3606-coupon-code-validator) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/2689-rearranging-fruits) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/0967-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3693-climbing-stairs-ii](https://github.com/vinayak-2201641540127/Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
